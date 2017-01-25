@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="textoBotonIniciar">Start</string>
+    <string-array name="arrayProductos">
+        <item>Tomatoes</item>
+        <item>Milk</item>
+        <item>Rice</item>
+        <item>Cheese</item>
+        <item>Potatoes</item>
+        <item>Sausage</item>
+        <item>Oil</item>
+        <item>Olives</item>
+        <item>Bread</item>
+        <item>Fish</item>
+        <item>Donuts</item>
+        <item>Bananas</item>
+        <item>Apples</item>
+        <item>Chocolate</item>
+        <item>Salt</item>
+        <item>Vinegar</item>
+        <item>Lettuce</item>
+        <item>Carrots</item>
+        <item>Garlic</item>
+        <item>Yoghurt</item>
+    </string-array>
+</resources>

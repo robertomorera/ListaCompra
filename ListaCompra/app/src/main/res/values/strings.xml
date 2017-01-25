@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lista de la Compra</string>
+    <string name="textoBotonIniciar">Iniciar</string>
+    <string-array name="arrayProductos">
+        <item>Tomates</item>
+        <item>Leche</item>
+        <item>Arroz</item>
+        <item>Queso</item>
+        <item>Patatas</item>
+        <item>Salchichas</item>
+        <item>Aceite</item>
+        <item>Aceitunas</item>
+        <item>Pan</item>
+        <item>Pescado</item>
+        <item>Donuts</item>
+        <item>Platanos</item>
+        <item>Manzanas</item>
+        <item>Chocolate</item>
+        <item>Sal</item>
+        <item>Vinagre</item>
+        <item>Lechuga</item>
+        <item>Zanahorias</item>
+        <item>Ajos</item>
+        <item>Yogures</item>
+    </string-array>
+</resources>
